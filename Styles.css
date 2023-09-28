@@ -83,7 +83,7 @@ iframe {
     width: 50%;
     height: 400px;
    position: relative;
-   left: 20%;
+   left: 17%;
    bottom: 2cm;
   
 }
@@ -157,8 +157,8 @@ footer {
 .img2{
     position: relative;
     left: 0;
-    bottom: 0;
-    width: 10%;
+    bottom: 7;
+    width: 30%;
     padding: 50px;
 }
 
